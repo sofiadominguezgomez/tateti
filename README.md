@@ -1,13 +1,13 @@
 # tateti
 
-├── main.py          # Código principal con la clase Tablero y el flujo del juego. \n
-├── mcts.py          # Implementación del algoritmo Monte Carlo Tree Search. \n
-├── requirements.txt # Lista de dependencias necesarias. \n
-└── README.md        # Instrucciones y descripción del proyecto. \n
+├── main.py          # Código principal con la clase Tablero y el flujo del juego. <br/>
+├── mcts.py          # Implementación del algoritmo Monte Carlo Tree Search. <br/>
+├── requirements.txt # Lista de dependencias necesarias. <br/>
+└── README.md        # Instrucciones y descripción del proyecto. <br/>
 
 Instalación
 1. Clona este repositorio:
-   git clone https://github.com/tu_usuario/tateti-mcts.git
+   git clone https://github.com/sofiadominguezgomez/tateti.git
 
 3. Ejecuta el juego:
    python tateti.py
