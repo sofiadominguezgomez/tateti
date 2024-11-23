@@ -1,8 +1,7 @@
 # tateti
 
-├── main.py          # Código principal con la clase Tablero y el flujo del juego. <br/>
+├── tateti.py          # Código principal con la clase Tablero y el flujo del juego. <br/>
 ├── mcts.py          # Implementación del algoritmo Monte Carlo Tree Search. <br/>
-├── requirements.txt # Lista de dependencias necesarias. <br/>
 └── README.md        # Instrucciones y descripción del proyecto. <br/>
 
 Instalación
