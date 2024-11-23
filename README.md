@@ -1,9 +1,9 @@
 # tateti
 
-├── main.py          # Código principal con la clase Tablero y el flujo del juego.
-├── mcts.py          # Implementación del algoritmo Monte Carlo Tree Search.
-├── requirements.txt # Lista de dependencias necesarias.
-└── README.md        # Instrucciones y descripción del proyecto.
+├── main.py          # Código principal con la clase Tablero y el flujo del juego. \n
+├── mcts.py          # Implementación del algoritmo Monte Carlo Tree Search. \n
+├── requirements.txt # Lista de dependencias necesarias. \n
+└── README.md        # Instrucciones y descripción del proyecto. \n
 
 Instalación
 1. Clona este repositorio:
@@ -21,9 +21,9 @@ Definición de los Archivos
 2. Archivo de Monte Carlo Tree Search (mcts.py): Este archivo contiene la implementación del algoritmo Monte Carlo Tree Search (MCTS). Es utilizado por la IA para tomar decisiones estratégicas basadas en simulaciones y búsqueda en árboles. Principales funciones:
 - TreeNode: Representa un nodo en el árbol de búsqueda.
 - MCTS:
-- buscar: Encuentra la mejor jugada mediante simulaciones.
-- rollout: Realiza simulaciones aleatorias para evaluar un estado.
-- heuristica: Prioriza jugadas ganadoras en las simulaciones.
-- backpropagate: Propaga las recompensas hacia los nodos padres.
-- get_mejor_jugada: Selecciona la mejor jugada según la fórmula de UCT.
+	- buscar: Encuentra la mejor jugada mediante simulaciones.
+	- rollout: Realiza simulaciones aleatorias para evaluar un estado.
+	- heuristica: Prioriza jugadas ganadoras en las simulaciones.
+	- backpropagate: Propaga las recompensas hacia los nodos padres.
+	- get_mejor_jugada: Selecciona la mejor jugada según la fórmula de UCT.
 
